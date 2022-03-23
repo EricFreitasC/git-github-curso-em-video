@@ -1,2 +1,2 @@
-# HTML5 curso em video
- repositório curso html5 guana
+# HTML5 Primeiro Curso
+ repositório do curso de HMTL5, do curso em Video.
