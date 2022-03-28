@@ -1,4 +1,4 @@
-# HTML5 Primeiro Curso
+# Curso Git e GitHub
  repositório do curso de git e github, do curso em Video.
 
 
